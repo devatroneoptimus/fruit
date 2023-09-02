@@ -15,6 +15,6 @@
 
 # Label
 Edible (1 indicating yes or 0 indicating poisonous)
-
+!ALT text(file:///C:/Users/91761/Pictures/Screenshots/Screenshot%202023-09-02%20170702.png)
 # One hot encoded dataset
 ## For ease of implementation, I have one-hot encoded the features (turned them into 0 or 1 valued features)
