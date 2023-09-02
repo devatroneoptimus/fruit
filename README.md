@@ -2,7 +2,7 @@
 
  ### Since not all fruits are edible, you'd like to be able to tell whether a given fruit is edible or poisonous based on it's physical attributes
 ### You have some existing data that you can use for this task.
-### Can you use the data to help you identify which fruit can be sold safely?
+###  you can use the data to help you identify which fruit can be consumed safely?
 
 # Datasets
 ## I Have taken 
