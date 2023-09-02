@@ -19,3 +19,5 @@ Edible (1 indicating yes or 0 indicating poisonous)
 ![Alt Text](https://github.com/devatroneoptimus/fruit/blob/main/Screenshot%202023-09-02%20170702.png?raw=true)
 # One hot encoded dataset
 ## For ease of implementation, I have one-hot encoded the features (turned them into 0 or 1 valued features)
+
+![Alt Text](https://github.com/devatroneoptimus/fruit/blob/main/Screenshot%202023-09-02%20173836.png?raw=true)
