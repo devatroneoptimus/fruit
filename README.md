@@ -7,11 +7,11 @@
 # Datasets
 ## I Have taken 
 ### Three features:-
-# 1)Cap Color (Brown or Red),
+# 1) Color (Brown or Red),
 
-# 2)Stalk Shape (Tapering  or Enlarging), and
+# 2)thorne Shape (Tapering  or Enlarging), and
 
-# 3)Solitary (Yes or No)
+# 3)pungent smell (Yes or No)
 
 # Label
 Edible (1 indicating yes or 0 indicating poisonous)
